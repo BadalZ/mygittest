@@ -1,3 +1,4 @@
+<!-- This is sample update for git branch versioning test -->
 <?xml version="1.0"?>
 <project name="TopCoder Java Generic Build" default="dist" basedir=".">
     <property file="${basedir}/build.version"/>
